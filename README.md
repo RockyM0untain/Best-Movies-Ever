@@ -6,4 +6,5 @@
 - Wayne’s World
 - Bridget Jones’s Diary
 - Everything Everywhere All at Once
+- The Devil Wears Prada
 
