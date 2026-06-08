@@ -7,4 +7,5 @@
 - Bridget Jones’s Diary
 - Everything Everywhere All at Once
 - The Devil Wears Prada
+- Shaun of the Dead
 
