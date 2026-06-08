@@ -10,3 +10,5 @@
 - Shaun of the Dead
 - The Big Lebowski 
 - Star Wars Holiday Special 
+- Legally Blonde
+
